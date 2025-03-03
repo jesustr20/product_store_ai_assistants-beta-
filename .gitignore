@@ -8,6 +8,8 @@ media
 /fooddelivery/db.sqlite3
 credenciales.md
 .env
+/chroma_db
+/chroma_db_data
 
 # Backup files # 
 *.bak 
