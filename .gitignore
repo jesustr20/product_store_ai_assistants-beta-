@@ -9,7 +9,7 @@ media
 credenciales.md
 .env
 /chroma_db
-/chroma_db_data
+/chromadb_data
 
 # Backup files # 
 *.bak 
